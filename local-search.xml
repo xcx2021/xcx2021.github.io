@@ -8,7 +8,7 @@
     <link href="/2021/01/23/%E6%88%91%E7%9A%842021%E5%B9%B4/"/>
     <url>/2021/01/23/%E6%88%91%E7%9A%842021%E5%B9%B4/</url>
     
-    <content type="html"><![CDATA[<blockquote><p>生成的新文件夹都在source下也就是和放文章的文件夹一块<br>以下所有命令必须在您的文件目录下执行</p></blockquote><h2 id="1、先创建”分类”文章选项"><a href="#1、先创建”分类”文章选项" class="headerlink" title="1、先创建”分类”文章选项"></a>1、先创建”分类”文章选项</h2><p>生成“分类”页并添加tpye属性,进入博客目录。执行命令下方命令<br><code>$ hexo new page categories</code></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>生成的新文件夹都在source下也就是和放文章的文件夹一块<br>以下所有命令必须在您的文件目录下执行</p></blockquote><h2 id="1、先创建”分类”文章选项"><a href="#1、先创建”分类”文章选项" class="headerlink" title="1、先创建”分类”文章选项"></a>1、先创建”分类”文章选项</h2><p>生成“分类”页并添加tpye属性,进入博客目录。执行命令下方命令</p><figure class="highlight haxe"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs haxe">命令<br>$ hexo <span class="hljs-keyword">new</span> <span class="hljs-type">page</span> categories <br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
